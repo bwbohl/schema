@@ -59,6 +59,23 @@ exclude:
 
 collections:
   #- 2.1.1
-  - dev
+  dev:
+    output: true
+    permalink: /:collection/:path
+  "5.0":
+    output: true
+    permalink: /:collection/:path
+  "4.0.1":
+    output: true
+    permalink: /:collection/:path
+  "4.0.0":
+    output: true
+    permalink: /:collection/:path
+  "3.0.0":
+    output: true
+    permalink: /:collection/:path
+  "2.1.1":
+    output: true
+    permalink: /:collection/:path
 
-show_dir_listing: true
+show_dir_listing: false
