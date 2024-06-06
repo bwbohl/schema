@@ -58,6 +58,7 @@ exclude:
   - README.md
 
 collections:
-  - 2.1.1
+  #- 2.1.1
+  - dev
 
 show_dir_listing: true
