@@ -59,3 +59,5 @@ exclude:
 
 collections:
   - 2.1.1
+
+show_dir_listing: true
