@@ -56,3 +56,6 @@ title: Schema
 #   - vendor/ruby/
 exclude:
   - README.md
+
+collections:
+  - 2.1.1
